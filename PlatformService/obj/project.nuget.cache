@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+iR81jYfYf1FffvLuYfTA36HSaNcuPez1fsimKsKo5oHX075tvvpSc+G7Ya+08Rdxib7YGoQgN7AxfSUOTw9eg==",
+  "dgSpecHash": "b3SZNYbHQv0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LucasRichardGarciaTi\\RiderProjects\\PlatformService\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "C:\\Users\\LucasRichardGarciaTi\\RiderProjects\\MicroservicesCourse\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LucasRichardGarciaTi\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\LucasRichardGarciaTi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

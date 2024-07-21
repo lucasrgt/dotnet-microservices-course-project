@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LucasRichardGarciaTi\\RiderProjects\\PlatformService\\PlatformService\\PlatformService.csproj": {}
+    "C:\\Users\\LucasRichardGarciaTi\\RiderProjects\\MicroservicesCourse\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LucasRichardGarciaTi\\RiderProjects\\PlatformService\\PlatformService\\PlatformService.csproj": {
+    "C:\\Users\\LucasRichardGarciaTi\\RiderProjects\\MicroservicesCourse\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LucasRichardGarciaTi\\RiderProjects\\PlatformService\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\Users\\LucasRichardGarciaTi\\RiderProjects\\MicroservicesCourse\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "C:\\Users\\LucasRichardGarciaTi\\RiderProjects\\PlatformService\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\Users\\LucasRichardGarciaTi\\RiderProjects\\MicroservicesCourse\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\LucasRichardGarciaTi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LucasRichardGarciaTi\\RiderProjects\\PlatformService\\PlatformService\\obj\\",
+        "outputPath": "C:\\Users\\LucasRichardGarciaTi\\RiderProjects\\MicroservicesCourse\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LucasRichardGarciaTi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
